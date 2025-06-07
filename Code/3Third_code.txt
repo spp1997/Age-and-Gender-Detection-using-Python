@@ -1,0 +1,3 @@
+input = cv.imread("/content/age_and_gender_detection/image.jpg")
+output = age_gender_detector(input)
+cv2_imshow(output)

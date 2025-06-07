@@ -1,0 +1,2 @@
+!git clone https://github.com/misbah4064/age_and_gender_detection.git
+%cd age_and_gender_detection
